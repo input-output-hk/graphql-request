@@ -1,3 +1,7 @@
+# graphql-request-configurable-serializer
+
+Fork of `graphql-request`, adding a `jsonSerializer` option.
+
 # graphql-request
 
 Minimal GraphQL client supporting Node and browsers for scripts or simple apps
